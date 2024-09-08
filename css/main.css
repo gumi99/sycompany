@@ -479,7 +479,7 @@ header nav>.depth1>li>a:hover {
 }
 
 .content03{
-    height: 60vh;
+    height: 70vh;
     padding: 80px 140px;
     margin: 100px 0;
     color: #fff;
@@ -556,7 +556,7 @@ header nav>.depth1>li>a:hover {
 
 .con04-img-wrap{
     position: absolute;
-    top: 55%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
@@ -649,7 +649,7 @@ header nav>.depth1>li>a:hover {
 
 .studio-wrap{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -687,8 +687,8 @@ header nav>.depth1>li>a:hover {
 }
 
 .content05 .studio-right{
-    width: 500px;
-    height: 600px;
+    width: 400px;
+    height: 500px;
     background: url(../img/s312_img04.png) no-repeat center / cover;
 }
 
@@ -701,8 +701,8 @@ header nav>.depth1>li>a:hover {
 }
 
 .content06 .studio-right{
-    width: 500px;
-    height: 600px;
+    width: 400px;
+    height: 500px;
     background: url(../img/m7_img01.png) no-repeat center / cover;
 }
 
