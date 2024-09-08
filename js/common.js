@@ -16,4 +16,6 @@ $(document).ready(function(){ //시작
     $("footer").mouseleave(function(){
         $(".go-top-wrap").show();
     });
+
+    AOS.init();
 }) //끝

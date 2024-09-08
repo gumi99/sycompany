@@ -94,6 +94,7 @@ header nav>.depth1>li>a:hover {
     border-radius: 300px 0 0 300px;
     background-color: bisque;
     background: url(../img/m1_bg.jpg) no-repeat center / cover;
+
 }
 
 .main-img-box-wrap a {
@@ -106,6 +107,21 @@ header nav>.depth1>li>a:hover {
     background: url(../img/logo.png) no-repeat center / 260px auto;
     color: transparent;
     font-size: 0;
+    animation: tran 3s ease-in-out infinite;
+}
+
+@keyframes tran {
+    0% {
+        opacity: 1;
+    }
+
+    50%{
+        opacity: 0.5;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
 
 .go-top-wrap {
